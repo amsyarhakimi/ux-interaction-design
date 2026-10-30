@@ -132,18 +132,7 @@ Numbers in the skill were checked against these sources in October 2026. Folk ru
 
 ## Contributing
 
-Issues and pull requests are welcome. When adding a rule:
-
-1. Cite a source you have actually read (official docs, standards, peer-reviewed research, or established UX research groups).
-2. Put it in the reference file it belongs to, not in SKILL.md, unless it's a core rule.
-3. Explain *why* the rule exists, so the model can apply it to cases it doesn't cover.
-4. Keep SKILL.md under 500 lines.
-
-Validate before opening a PR:
-
-```
-claude plugin validate .
-```
+This is a personal project and I'm not accepting pull requests. Feel free to fork it.
 
 ## Changelog
 
