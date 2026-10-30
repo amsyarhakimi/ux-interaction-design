@@ -40,25 +40,23 @@ It does **not** pick colors or fonts. Pair it with a visual skill such as [impec
 
 ## Install
 
-Replace `YOUR-GITHUB-USERNAME` with the account that hosts this repo.
-
 **Option 1: Claude Code plugin (recommended)**
 
 ```
-/plugin marketplace add YOUR-GITHUB-USERNAME/ux-interaction-design
+/plugin marketplace add amsyarhakimi/ux-interaction-design
 /plugin install ux-interaction-design@ux-interaction-design
 ```
 
 **Option 2: skills CLI (Claude Code, Cursor, Codex and other agents)**
 
 ```
-npx skills add YOUR-GITHUB-USERNAME/ux-interaction-design
+npx skills add amsyarhakimi/ux-interaction-design
 ```
 
 **Option 3: manual copy**
 
 ```
-git clone https://github.com/YOUR-GITHUB-USERNAME/ux-interaction-design.git
+git clone https://github.com/amsyarhakimi/ux-interaction-design.git
 cp -r ux-interaction-design/skills/ux-interaction-design ~/.claude/skills/
 ```
 
