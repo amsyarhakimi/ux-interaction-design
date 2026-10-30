@@ -1,0 +1,10 @@
+{
+  "name": "ux-interaction-design",
+  "version": "1.2.0",
+  "description": "UX and interaction design rules for building and reviewing web and Flutter app UI: screen states, feedback, forms, errors, accessibility, motion, navigation.",
+  "author": {
+    "name": "Amsyar Hakimi"
+  },
+  "license": "MIT",
+  "keywords": ["ux", "ui", "interaction-design", "accessibility", "flutter", "web", "usability"]
+}

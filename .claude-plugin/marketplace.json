@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "ux-interaction-design",
+  "description": "UX and interaction design skill for Claude Code: states, feedback, forms, accessibility, motion, Flutter and web.",
+  "owner": {
+    "name": "Amsyar Hakimi"
+  },
+  "plugins": [
+    {
+      "name": "ux-interaction-design",
+      "source": ".",
+      "description": "UX and interaction design rules for building and reviewing web and Flutter app UI.",
+      "category": "design",
+      "tags": ["ux", "accessibility", "flutter", "web"]
+    }
+  ]
+}
